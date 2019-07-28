@@ -16,3 +16,4 @@ The game for the right side is played as follows :
 
 You can see the result as follows when the game over.
 
+![2](https://user-images.githubusercontent.com/39131741/62013524-8b348400-b19c-11e9-9a6b-bf1848b6de8d.png)
