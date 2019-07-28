@@ -12,7 +12,7 @@ The game for the right side is played as follows :
 ' Up key ' => Moves the racket up.   
 ' Down key ' => Moves the racket down.
 
-![1](https://user-images.githubusercontent.com/39131741/62013073-a8665400-b196-11e9-82b3-aa0df0074c21.png)
+![1](https://user-images.githubusercontent.com/39131741/62013593-68569f80-b19d-11e9-8fbc-34b9899a4577.png)
 
 You can see the result as follows when the game over.
 
